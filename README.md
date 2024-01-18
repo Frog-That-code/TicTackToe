@@ -1,2 +1,2 @@
 # TicTackToe
-bad tic tack toe game
+bad tic tack toe game written in python and uses pygame.
